@@ -3,16 +3,16 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>virt-viewer</id>
-    <version>3.0.256</version>
+    <version>5.0</version>
     <packageSourceUrl>https://github.com/hansnull/chocolatey-virt-viewer-package</packageSourceUrl>
     <owners>hans0</owners>
     <title>Virt Viewer (Install)</title>
     <authors>Daniel P. Berrange (Original author),Christophe Fergeau,Marc-André Lureau,Hans de Goede,Michal Privoznik</authors>
     <projectUrl>https://virt-manager.org/</projectUrl>
     <iconUrl>https://virt-manager.org/wp-content/themes/virtman/topbar_logo.png</iconUrl>
-    <licenseUrl>https://github.com/SPICE/virt-viewer/blob/v3.0-maint/COPYING</licenseUrl>
+    <licenseUrl>https://github.com/SPICE/virt-viewer/blob/master/COPYING</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <projectSourceUrl>https://github.com/SPICE/virt-viewer/tree/v3.0-maint</projectSourceUrl>
+    <projectSourceUrl>https://github.com/SPICE/virt-viewer</projectSourceUrl>
     <docsUrl>https://virt-manager.org/documentation/</docsUrl>
     <mailingListUrl>https://virt-manager.org/communicate/#mail</mailingListUrl>
     <bugTrackerUrl>https://virt-manager.org/bugs/</bugTrackerUrl>
