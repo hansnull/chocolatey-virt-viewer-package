@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>virt-viewer</id>
-    <version>8.0.256</version>
+    <version>9.0.256</version>
     <packageSourceUrl>https://github.com/hansnull/chocolatey-virt-viewer-package</packageSourceUrl>
     <owners>hans0</owners>
     <title>Virt Viewer (Install)</title>
