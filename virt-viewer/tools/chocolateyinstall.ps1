@@ -4,8 +4,8 @@ $ErrorActionPreference = 'Stop';
 
 $packageName= 'virt-viewer'
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url        = 'https://virt-manager.org/download/sources/virt-viewer/virt-viewer-x86-8.0.msi'
-$url64      = 'https://virt-manager.org/download/sources/virt-viewer/virt-viewer-x64-8.0.msi'
+$url        = 'https://virt-manager.org/download/sources/virt-viewer/virt-viewer-x86-9.0.msi'
+$url64      = 'https://virt-manager.org/download/sources/virt-viewer/virt-viewer-x64-9.0.msi'
 
 $packageArgs = @{
   packageName   = $packageName
@@ -16,9 +16,9 @@ $packageArgs = @{
 
   softwareName  = 'VirtViewer*'
 
-  checksum      = '93bbe9092b3a785ad7a766743b50abf2'
+  checksum      = '458eb8447e7bd9a09b72352da6f612eb'
   checksumType  = 'md5'
-  checksum64    = 'd49aa432ac4bd6362fe8c0f15a24016b'
+  checksum64    = '4e0984a61957a1b394239b60ae9daa0b'
   checksumType64= 'md5'
 
   silentArgs    = "/qn /norestart /l*v `"$($env:TEMP)\$($packageName).$($env:chocolateyPackageVersion).MsiInstall.log`""
