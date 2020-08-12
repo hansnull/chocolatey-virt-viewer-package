@@ -10,9 +10,9 @@
     <authors>Daniel P. Berrange (Original author),Christophe Fergeau,Marc-André Lureau,Hans de Goede,Michal Privoznik</authors>
     <projectUrl>https://virt-manager.org/</projectUrl>
     <iconUrl>https://virt-manager.org/wp-content/themes/virtman/topbar_logo.png</iconUrl>
-    <licenseUrl>https://github.com/SPICE/virt-viewer/blob/master/COPYING</licenseUrl>
+    <licenseUrl>https://gitlab.freedesktop.org/spice/spice-gtk/-/raw/master/COPYING</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <projectSourceUrl>https://github.com/SPICE/virt-viewer</projectSourceUrl>
+    <projectSourceUrl>https://gitlab.freedesktop.org/spice/spice-gtk</projectSourceUrl>
     <docsUrl>https://virt-manager.org/documentation/</docsUrl>
     <mailingListUrl>https://virt-manager.org/communicate/#mail</mailingListUrl>
     <bugTrackerUrl>https://virt-manager.org/bugs/</bugTrackerUrl>
